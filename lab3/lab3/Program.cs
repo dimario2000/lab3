@@ -146,7 +146,7 @@ namespace LAB3
             {
                 for (int j = 0; j < n; j++)
                 {
-                    Console.Write(C[i, j, n] + "\t\t");
+                    Console.Write(C[i, j, n] + "\t");
                 }
                 Console.WriteLine();
             }
@@ -159,7 +159,7 @@ namespace LAB3
             {
                 for (int j = 0; j < n; j++)
                 {
-                    Console.Write(D[i, j, n] + "\t\t");
+                    Console.Write(D[i, j, n] + "\t");
                 }
                 Console.WriteLine();
             }
